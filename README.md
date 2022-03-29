@@ -2,7 +2,7 @@
 
 ## What is this?
 
-This prototype/sample solves the issue of missing end-to-end tracing when using .NET, Application Insights and Azure Event Grid to asynchonously process blob uploads.
+This prototype/sample solves the issue of missing end-to-end tracing when using .NET, Application Insights and Azure Event Grid to asynchronously process blob uploads.
 
 ```mermaid
 graph LR
